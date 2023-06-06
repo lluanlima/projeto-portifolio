@@ -8,7 +8,6 @@ Meu primeiro projeto seguindo as orientações do curso de HTML e CSS da Alura.
 
 - 💪 HTML, CSS e FLex-Box
 
-```
 ## 📞 Contato
 
 Se você tiver alguma dúvida ou quiser compartilhar algo, entre em contato comigo através dos seguintes meios:
