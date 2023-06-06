@@ -4,9 +4,9 @@
 
 Meu primeiro projeto seguindo as orientações do curso de HTML e CSS da Alura.
 
-## 💡 Recursos
+## 💡 Tecnologias Usadas:
 
-- 💪 Tecnologias Usadas: HTML, CSS e FLex-Box
+- 💪 HTML, CSS e FLex-Box
 
 ```
 
